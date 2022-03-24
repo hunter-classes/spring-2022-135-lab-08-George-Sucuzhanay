@@ -5,4 +5,8 @@ int main()
 {
     invert("image1.pgm");
     invertHalf("image1.pgm");
+    whiteBox("image1.pgm");
+    whiteBoxOutline("image1.pgm");
+    
+
 }
